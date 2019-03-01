@@ -1,2 +1,2 @@
-# npm-proxy-config
-NPM Configuration for Network Proxy for a Corporate Network
+# proxy-config
+Proxy Configuration for Corporate Networks for NPM and GIT
