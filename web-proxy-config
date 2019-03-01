@@ -1,0 +1,4 @@
+1. npm config set strict-ssl false
+2. npm config set registry "http://registry.npmjs.org/"
+3. npm set proxy http://username:password@proxyaddress:port
+   i.e: http://IN461642:mar#2019@172.18.5.30:8080
